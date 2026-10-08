@@ -64,7 +64,7 @@ This tool helps teams automatically calculate constants that can be used to desc
 .. image:: images/control-system-software/outline-viewer.png
    :alt: OutlineViewer with the preferences dialog box.
 
-OutlineViewer is a utility used to view, modify, and add to all of the contents of the NetworkTables for debugging purposes.  For more information see the :ref:`Outline Viewer section <docs/software/wpilib-tools/outlineviewer/index:OutlineViewer>`.
+OutlineViewer is a utility used to view, modrify, and add to all of the contents of the NetworkTables for debugging purposes.  For more information see the :ref:`Outline Viewer section <docs/software/wpilib-tools/outlineviewer/index:OutlineViewer>`.
 
 ## WPIcal
 
